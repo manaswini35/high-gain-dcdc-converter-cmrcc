@@ -1,0 +1,7 @@
+* text=auto
+*.slx binary
+*.mat binary
+*.fig binary
+*.docx binary
+*.pdf binary
+*.png binary

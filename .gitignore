@@ -1,0 +1,25 @@
+# MATLAB / Simulink
+*.asv
+*.autosave
+*.slxc
+*.mexw64
+slprj/
+codegen/
+*.slx.r20*
+
+# Large scope figures and generated data (see README, "How to run")
+*.fig
+data/
+build/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Office temp / OS files
+~$*
+*.tmp
+Thumbs.db
+desktop.ini
+.DS_Store
